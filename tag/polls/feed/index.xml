@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Polls &#8211; The Tech Show</title>
+	<atom:link href="https://akshaybhopani.github.io/WordPress/tag/polls/feed/" rel="self" type="application/rss+xml" />
+	<link>https://akshaybhopani.github.io/WordPress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>
+	Wed, 15 Aug 2018 03:52:53 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0-alpha-43568</generator>
+	<item>
+		<title>Guide To Make Instagram Polls</title>
+		<link>https://akshaybhopani.github.io/WordPress/2017/10/06/guide-to-make-instagram-polls/</link>
+		<comments>https://akshaybhopani.github.io/WordPress/2017/10/06/guide-to-make-instagram-polls/#respond</comments>
+		<pubDate>Fri, 06 Oct 2017 17:23:01 +0000</pubDate>
+		<dc:creator><![CDATA[Aaditya Aurobindo]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Polls]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://www.yourtechshow.com/?p=1361</guid>
+		<description><![CDATA[As you all know that Instagram has come up with a new polling feature in it&#8217;s recent update launched on both ios and Android. We held a poll on our Instagram account @thetechshow_official about whether you guys needed a guide to Instagram polls and 75% voted yes. Adding polls is similar to any other sticker &#8230; <p class="link-more"><a href="https://akshaybhopani.github.io/WordPress/2017/10/06/guide-to-make-instagram-polls/" class="more-link">Continue reading<span class="screen-reader-text"> "Guide To Make Instagram Polls"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>As you all know that Instagram has come up with a new polling feature in it&#8217;s recent update launched on both ios and Android.</p>
+<p><img class="alignnone size-medium wp-image-1363" src="http://www.yourtechshow.com/wp-content/uploads/2017/10/Screenshot_2017-10-06-17-08-14-661_com.instagram.android-169x300.png" alt="" width="169" height="300" /></p>
+<p>We held a poll on our Instagram account @thetechshow_official about whether you guys needed a guide to Instagram polls and 75% voted yes.</p>
+<p><span style="font-size: 1em;">Adding polls is similar to any other sticker on Instagram: just drag and drop it onto your image in your story, and you’ll automatically be presented with the option to customize the question and choices. People viewing your story will be able to tap on a choice to vote, which will then show the overall results so far. To see the results for yourself, simply open up the viewers list for that image or video on your story, and it will show you total vote numbers, who voted, and what they chose.</span></p>
+<figure class="e-image"><span class="e-image__inner"><span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/9381457/tumblr_inline_ox7vcaCwcH1qm4rc3_540.jpg"><img class="c-dynamic-image lazy-image lazy-loaded" src="https://cdn.vox-cdn.com/thumbor/1vS-8O7FL23_ZrZ0cIaDzlKtFuI=/1000x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9381457/tumblr_inline_ox7vcaCwcH1qm4rc3_540.jpg" alt="" data-chorus-optimize-field="main_image" data-cid="site/dynamic_size_image-1507295594_8815_6847" data-cdata="{&quot;asset_id&quot;:9381457,&quot;ratio&quot;:&quot;*&quot;}" /></span></span><span class="e-image__meta"><cite>Image: Instagram</cite></span></figure>
+<p id="ls8JyD">Along with the new polling stickers, Instagram is also adding an eyedropper tool that allows you to take colors from your pictures to use on text and brushes, and an alignment tool (which is limited to iOS for now) that should help make sure text and stickers are properly centered on your pictures.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://akshaybhopani.github.io/WordPress/2017/10/06/guide-to-make-instagram-polls/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

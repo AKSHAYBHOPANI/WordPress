@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Google &#8211; The Tech Show</title>
+	<atom:link href="https://akshaybhopani.github.io/WordPress/tag/google/feed/" rel="self" type="application/rss+xml" />
+	<link>https://akshaybhopani.github.io/WordPress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>
+	Wed, 15 Aug 2018 03:52:53 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0-alpha-43568</generator>
+	<item>
+		<title>How To Stop Google From Tracking Your Movements</title>
+		<link>https://akshaybhopani.github.io/WordPress/2017/08/20/how-to-stop-google-from-tracking-your-movements/</link>
+		<comments>https://akshaybhopani.github.io/WordPress/2017/08/20/how-to-stop-google-from-tracking-your-movements/#respond</comments>
+		<pubDate>Sun, 20 Aug 2017 13:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Aaditya Aurobindo]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google maps]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[iOs]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[maps]]></category>
+		<category><![CDATA[tracking]]></category>
+
+		<guid isPermaLink="false">http://www.yourtechshow.com/?p=1193</guid>
+		<description><![CDATA[Your phone has been keeping a comprehensive list of everywhere you’ve been – and you might not even know. Whether you use iOS or Android, handsets have ways of watching where their owners are going and keeping a record of all of that information. The data can be a very useful way of reminding yourself &#8230; <p class="link-more"><a href="https://akshaybhopani.github.io/WordPress/2017/08/20/how-to-stop-google-from-tracking-your-movements/" class="more-link">Continue reading<span class="screen-reader-text"> "How To Stop Google From Tracking Your Movements"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>Your phone has been keeping a comprehensive list of everywhere you’ve been – and you might not even know.</p>
+<p>Whether you use iOS or Android, handsets have ways of watching where their owners are going and keeping a record of all of that information.</p>
+<p>The data can be a very useful way of reminding yourself where you&#8217;ve been or when exactly you went on a certain trip. It also allows the phones to tell you useful information by knowing where you tend to go and on what days.</p>
+<p>But it can also be a strange way of remembering just how much information some technology companies store about your life.</p>
+<p>Google has perhaps the neatest way of looking at all of that information on itsYour Timeline page, which used to be known as Location History.  You can head there and see a map of everywhere you’ve been with your phone – grouped into trips and dates.</p>
+<p>The site uses the data for its various location-aware tools, including Maps and notifications that can make you aware of things that are happening nearby.</p>
+<p>It’s from that same page that you can opt to enable the tool if it’s not already turned on, or to pause it.</p>
+<p>If you’re on Android, then the tracking feature can happen using just the phone. On iOS it needs an app – the Google app, for instance, can track your location and send it to Google while it sits in the background.</p>
+<p>Google also makes it easy to turn off location information, and to delete either everything or specific parts of the information that it has stored.</p>
+<p>To turn the whole thing off, you can head to your Google account and turn the “Location History” switch off. Since you’re doing that at the account level, it will change whatever device has been tracking you.</p>
+<p>To delete it, you head to the location history page above and select either a day or location and opt to delete that history. Otherwise you can pick the “Delete all history” option to get rid of the entire thing.</p>
+<p>Apple also does something similar, in its iPhones.</p>
+<p>To see the list, you can head to the Settings app and click on Privacy. There you’ll find an option for Location services, which is also the place you can disable any other app from tracking you.</p>
+<p>Scroll down to the bottom of that list and find the setting for System Services. Click on that and choose Frequent Locations.</p>
+<p>In there you’ll find a list of everywhere you’ve been and how many times you’ve been there.</p>
+<p>Like Google, Apple uses that information to understand more about what you do. It will be able to tell if you tend to drive home at a certain time each day, for instance, and suggest that traffic is looking bad if it is.</p>
+<p>It’s important to note that none of Apple’s Frequent Locations data is sent to Apple by default, and it just lives on your phone. That can make it less useful than Google’s version – you can’t view it on the web, and you&#8217;ll lose it if you move to a new phone – but it also means that it won&#8217;t be used for advertising or anythign else.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://akshaybhopani.github.io/WordPress/2017/08/20/how-to-stop-google-from-tracking-your-movements/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

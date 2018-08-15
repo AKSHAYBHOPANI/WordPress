@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Microsoft &#8211; The Tech Show</title>
+	<atom:link href="https://akshaybhopani.github.io/WordPress/tag/microsoft/feed/" rel="self" type="application/rss+xml" />
+	<link>https://akshaybhopani.github.io/WordPress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>
+	Wed, 15 Aug 2018 03:52:53 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0-alpha-43568</generator>
+	<item>
+		<title>Windows 10 Fall Creators Update Launch Date Revealed</title>
+		<link>https://akshaybhopani.github.io/WordPress/2017/09/02/windows-10-fall-creators-update-launch-date-revealed/</link>
+		<comments>https://akshaybhopani.github.io/WordPress/2017/09/02/windows-10-fall-creators-update-launch-date-revealed/#respond</comments>
+		<pubDate>Sat, 02 Sep 2017 14:16:40 +0000</pubDate>
+		<dc:creator><![CDATA[Aaditya Aurobindo]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Autumn Creators Update]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows 10]]></category>
+
+		<guid isPermaLink="false">http://www.yourtechshow.com/?p=1250</guid>
+		<description><![CDATA[There have been several rumours surrounding the release date for the much awaited Windows 10 Autumn Creators Update.  The speculations were finally laid to rest by Microsoft who have finally announced the date. Terry Myerson, the vice president of Microsoft Windows and devices, finally confirmed the date. It will be on October 17th when the &#8230; <p class="link-more"><a href="https://akshaybhopani.github.io/WordPress/2017/09/02/windows-10-fall-creators-update-launch-date-revealed/" class="more-link">Continue reading<span class="screen-reader-text"> "Windows 10 Fall Creators Update Launch Date Revealed"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>There have been several rumours surrounding the release date for the much awaited Windows 10 Autumn Creators Update.  The speculations were finally laid to rest by Microsoft who have finally announced the date.</p>
+<p>Terry Myerson, the vice president of Microsoft Windows and devices, finally confirmed the date. It will be on October 17th when the Fall Creators Update of Windows 10 will be released worldwide.</p>
+<p><img class="alignnone size-medium wp-image-878" src="http://www.yourtechshow.com/wp-content/uploads/2017/05/windows-10-creators-update-300x157.jpg" alt="" width="300" height="157" /></p>
+<p><span style="font-size: 1em;">This is the 4th update of Windows 10 and will bring many new features to this system. All of them have already been tested in the Insider program, through which beta testers and developers reported all the errors and problems.</span></p>
+<p>This new version will finally bring to Windows 10 the Microsoft VR platform, Windows Mixed Reality, which can be used by cheaper glasses and helmets, such as those that Lenovo has now presented at the IFA.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://akshaybhopani.github.io/WordPress/2017/09/02/windows-10-fall-creators-update-launch-date-revealed/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nintendo &#8211; The Tech Show</title>
+	<atom:link href="https://akshaybhopani.github.io/WordPress/tag/nintendo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://akshaybhopani.github.io/WordPress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>
+	Wed, 15 Aug 2018 03:52:53 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0-alpha-43568</generator>
+	<item>
+		<title>Nintendo Announces New Console</title>
+		<link>https://akshaybhopani.github.io/WordPress/2017/04/28/nintendo-announces-new-console/</link>
+		<comments>https://akshaybhopani.github.io/WordPress/2017/04/28/nintendo-announces-new-console/#comments</comments>
+		<pubDate>Fri, 28 Apr 2017 19:01:57 +0000</pubDate>
+		<dc:creator><![CDATA[Aaditya Aurobindo]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Nintendo]]></category>
+
+		<guid isPermaLink="false">http://www.yourtechshow.com/?p=798</guid>
+		<description><![CDATA[Japanese gaming giants Nintendo made a surprising announcement today. They have announced a new handheld console, the Nintendo 2DS XL. The Nintendo 2DS XL combines the simplicity of the Nintendo 2DS handheld console with the raw processing power of the Nintendo 3DS XL. An affordable alternative for confused customers. The 2DS XL will launch on July &#8230; <p class="link-more"><a href="https://akshaybhopani.github.io/WordPress/2017/04/28/nintendo-announces-new-console/" class="more-link">Continue reading<span class="screen-reader-text"> "Nintendo Announces New Console"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>Japanese gaming giants Nintendo made a surprising announcement today. They have announced a new handheld console, the Nintendo 2DS XL.</p>
+<p>The Nintendo 2DS XL combines the simplicity of the Nintendo 2DS handheld console with the raw processing power of the Nintendo 3DS XL. An affordable alternative for confused customers.</p>
+<p>The 2DS XL will launch on July 28 for $150. Given below is the trailer for the 2DS XL.</p>
+<p>https://youtu.be/3lxNHhgMuTg</p>
+<p>“This new addition to Nintendo’s portable hardware line demonstrates our commitment to the hand-held market,” said Reggie Fils-Aime, Nintendo of America’s President and COO. “New Nintendo 2DS XL sports a beautiful clamshell design and offers a great balance between price and performance.”</p>
+<p>Now all that remains to be known is the various games that will be launched for this new console.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://akshaybhopani.github.io/WordPress/2017/04/28/nintendo-announces-new-console/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Social media marketing &#8211; The Tech Show</title>
+	<atom:link href="https://akshaybhopani.github.io/WordPress/tag/social-media-marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://akshaybhopani.github.io/WordPress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>
+	Wed, 15 Aug 2018 03:52:53 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0-alpha-43568</generator>
+	<item>
+		<title>Guide To Get 280 Characters On Twitter</title>
+		<link>https://akshaybhopani.github.io/WordPress/2017/09/29/guide-to-get-280-characters-on-twitter/</link>
+		<comments>https://akshaybhopani.github.io/WordPress/2017/09/29/guide-to-get-280-characters-on-twitter/#respond</comments>
+		<pubDate>Fri, 29 Sep 2017 15:38:46 +0000</pubDate>
+		<dc:creator><![CDATA[Aaditya Aurobindo]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Social media]]></category>
+		<category><![CDATA[Social media marketing]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Twitter]]></category>
+
+		<guid isPermaLink="false">http://www.yourtechshow.com/?p=1355</guid>
+		<description><![CDATA[Twitter doubled the character limit of tweets to 280 in a surprise move two days ago, but not every Twitter user will be able to use the new limit just yet. Twitter is rolling out the long tweets feature to select accounts as a test, but Twitter user Prof9 has discovered a workaround to get longer &#8230; <p class="link-more"><a href="https://akshaybhopani.github.io/WordPress/2017/09/29/guide-to-get-280-characters-on-twitter/" class="more-link">Continue reading<span class="screen-reader-text"> "Guide To Get 280 Characters On Twitter"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p id="MRuxlx">Twitter doubled the character limit of tweets to 280 in a surprise move two days ago, but not every Twitter user will be able to use the new limit just yet. Twitter is rolling out the long tweets feature to select accounts as a test, but Twitter user Prof9 has discovered a workaround to get longer tweets a little early. Here’s how to tweet with 280 characters instead of 140:</p>
+<ul>
+<li id="pNdgNY">Download Tampermonkey for your browser of choice (<a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">Chrome webstore link</a>)</li>
+<li id="FTlLOI">Visit <a href="https://gist.github.com/Prof9/c16fc4997e0ef5b22a15c43edd7f5f49">this Github repository</a>, click the “raw” button, then tell tampermonkey to “install” the script (or copy and paste the code into a new script in Tampermonkey)</li>
+<li id="7jmPcU">Now visit <a href="http://twitter.com/">twitter.com</a>, make sure the script in running in Tampermonkey, then tweet away</li>
+</ul>
+<p id="lskykS">It’s a simple workaround that will work automatically on Twitter.com every time you use the web client to tweet. Tampermonkey is a widely used userscript manager, and the javascript is a harmless workaround that simply bypasses the tweet button limit.</p>
+<p>Share it with your friends if you found it useful.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://akshaybhopani.github.io/WordPress/2017/09/29/guide-to-get-280-characters-on-twitter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Android &#8211; The Tech Show</title>
+	<atom:link href="https://akshaybhopani.github.io/WordPress/tag/android/feed/" rel="self" type="application/rss+xml" />
+	<link>https://akshaybhopani.github.io/WordPress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>
+	Wed, 15 Aug 2018 03:52:53 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0-alpha-43568</generator>
+	<item>
+		<title>How To Stop Google From Tracking Your Movements</title>
+		<link>https://akshaybhopani.github.io/WordPress/2017/08/20/how-to-stop-google-from-tracking-your-movements/</link>
+		<comments>https://akshaybhopani.github.io/WordPress/2017/08/20/how-to-stop-google-from-tracking-your-movements/#respond</comments>
+		<pubDate>Sun, 20 Aug 2017 13:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Aaditya Aurobindo]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google maps]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[iOs]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[maps]]></category>
+		<category><![CDATA[tracking]]></category>
+
+		<guid isPermaLink="false">http://www.yourtechshow.com/?p=1193</guid>
+		<description><![CDATA[Your phone has been keeping a comprehensive list of everywhere you’ve been – and you might not even know. Whether you use iOS or Android, handsets have ways of watching where their owners are going and keeping a record of all of that information. The data can be a very useful way of reminding yourself &#8230; <p class="link-more"><a href="https://akshaybhopani.github.io/WordPress/2017/08/20/how-to-stop-google-from-tracking-your-movements/" class="more-link">Continue reading<span class="screen-reader-text"> "How To Stop Google From Tracking Your Movements"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>Your phone has been keeping a comprehensive list of everywhere you’ve been – and you might not even know.</p>
+<p>Whether you use iOS or Android, handsets have ways of watching where their owners are going and keeping a record of all of that information.</p>
+<p>The data can be a very useful way of reminding yourself where you&#8217;ve been or when exactly you went on a certain trip. It also allows the phones to tell you useful information by knowing where you tend to go and on what days.</p>
+<p>But it can also be a strange way of remembering just how much information some technology companies store about your life.</p>
+<p>Google has perhaps the neatest way of looking at all of that information on itsYour Timeline page, which used to be known as Location History.  You can head there and see a map of everywhere you’ve been with your phone – grouped into trips and dates.</p>
+<p>The site uses the data for its various location-aware tools, including Maps and notifications that can make you aware of things that are happening nearby.</p>
+<p>It’s from that same page that you can opt to enable the tool if it’s not already turned on, or to pause it.</p>
+<p>If you’re on Android, then the tracking feature can happen using just the phone. On iOS it needs an app – the Google app, for instance, can track your location and send it to Google while it sits in the background.</p>
+<p>Google also makes it easy to turn off location information, and to delete either everything or specific parts of the information that it has stored.</p>
+<p>To turn the whole thing off, you can head to your Google account and turn the “Location History” switch off. Since you’re doing that at the account level, it will change whatever device has been tracking you.</p>
+<p>To delete it, you head to the location history page above and select either a day or location and opt to delete that history. Otherwise you can pick the “Delete all history” option to get rid of the entire thing.</p>
+<p>Apple also does something similar, in its iPhones.</p>
+<p>To see the list, you can head to the Settings app and click on Privacy. There you’ll find an option for Location services, which is also the place you can disable any other app from tracking you.</p>
+<p>Scroll down to the bottom of that list and find the setting for System Services. Click on that and choose Frequent Locations.</p>
+<p>In there you’ll find a list of everywhere you’ve been and how many times you’ve been there.</p>
+<p>Like Google, Apple uses that information to understand more about what you do. It will be able to tell if you tend to drive home at a certain time each day, for instance, and suggest that traffic is looking bad if it is.</p>
+<p>It’s important to note that none of Apple’s Frequent Locations data is sent to Apple by default, and it just lives on your phone. That can make it less useful than Google’s version – you can’t view it on the web, and you&#8217;ll lose it if you move to a new phone – but it also means that it won&#8217;t be used for advertising or anythign else.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://akshaybhopani.github.io/WordPress/2017/08/20/how-to-stop-google-from-tracking-your-movements/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Uncommon Handy Apps</title>
+		<link>https://akshaybhopani.github.io/WordPress/2017/08/11/app-reviews/</link>
+		<comments>https://akshaybhopani.github.io/WordPress/2017/08/11/app-reviews/#respond</comments>
+		<pubDate>Fri, 11 Aug 2017 15:00:23 +0000</pubDate>
+		<dc:creator><![CDATA[Omay Naik]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[Handy]]></category>
+		<category><![CDATA[List]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[Utility]]></category>
+
+		<guid isPermaLink="false">http://www.yourtechshow.com/?p=1160</guid>
+		<description><![CDATA[      Hello Everyone!!       This is Omay from TTSMG and we are here with some new app reviews! It has been quite some time since our last post.. so, without further ado, here are some reviews 😀 &#160; Orphic: &#160;       This app shows you uncommon words and their meaning. It has &#8230; <p class="link-more"><a href="https://akshaybhopani.github.io/WordPress/2017/08/11/app-reviews/" class="more-link">Continue reading<span class="screen-reader-text"> "Uncommon Handy Apps"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><span style="font-family: ABeeZee;">      Hello Everyone!! </span></p>
+<p><span style="font-family: ABeeZee;">      This is Omay from TTSMG and we are here with some new app reviews!</span></p>
+<p><span style="font-family: ABeeZee;">It has been quite some time since our last post.. </span></p>
+<p><span style="font-family: ABeeZee;">so, without further ado, here are some reviews <img src="https://s.w.org/images/core/emoji/11/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><span style="font-family: ABeeZee;">Orphic:</span></span></p>
+<p>&nbsp;</p>
+<p><img class="aligncenter wp-image-1162" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170812-002744-576x1024.png" alt="" width="366" height="650" /></p>
+<p><span style="font-family: ABeeZee;">      </span><span style="font-family: ABeeZee;">This app shows you uncommon words and their meaning. It has its own widget, so that you can access the app without opening it. You may set the refresh rate of the widget from 30 minutes upto 24 hours. If you access the app, it shows you a plethora of words and their meaning. Pretty much improving one&#8217;s vocabulary. The widget appearance can be varied as per preference and the size adapts to the definition length. The widget screenshot is as shown below.</span></p>
+<p><img class="aligncenter wp-image-1163" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170811-233455-576x1024.png" alt="" width="366" height="650" /></p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><span style="font-family: ABeeZee;">Video Compress:</span></span></p>
+<p><img class="aligncenter wp-image-1164" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170812-000826-576x1024.png" alt="" width="366" height="650" /></p>
+<p><span style="font-family: ABeeZee;">      This is a handy app when there is an urgent need of video compression and editing. Although not as powerful  as its counterpart software which are computer based, this app uses your smartphone&#8217;s processor in order to carry out compression, video cutting, extracting mp3 track from video and so on. It gets the job done with a little heat and time depending on how large the compression ratio is and how efficient your SoC is. </span></p>
+<p><img class="aligncenter wp-image-1165" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170812-000814-1080x1300.png" alt="" width="366" height="650" /></p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><span style="font-family: ABeeZee;">Flippy Knife:</span></span></p>
+<p><img class="aligncenter wp-image-1168" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170812-001552-576x1024.png" alt="" width="366" height="650" /></p>
+<p><span style="font-family: ABeeZee;">       A game for those who have less time to indulge in a story or learn rules, also for those who love minimalist themed games. It has a beautiful art style, and really simple interface. You have to move a knife to achieve goals like flipping it onto a log blade side down, hitting a target, traversing through platforms and there is also a game mode inspired by nin-jump. With a large selection of knives, and a simplistic gameplay, you won&#8217;t be bored for your next long-haul trip.</span></p>
+<p>&nbsp;</p>
+<p><img class="aligncenter wp-image-1169" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170806-223527-1080x1300.png" alt="" width="366" height="650" /></p>
+<p><img class="aligncenter wp-image-1170" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170806-223515-1080x1300.png" alt="" width="366" height="650" /></p>
+<p><img class="aligncenter wp-image-1172" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170812-003904-1080x1300.png" alt="" width="366" height="650" /></p>
+<p><img class="aligncenter wp-image-1172" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170812-003904-1080x1300.png" alt="" width="366" height="650" /></p>
+<p>&nbsp;</p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><span style="font-family: ABeeZee;">DUAL:</span></span></p>
+<p><img class="aligncenter wp-image-1166 size-large" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170812-000739-1024x576.png" alt="" width="688" height="387" /></p>
+<p><span style="font-family: ABeeZee;">      An awesome take on offline multiplayer. The User interface is just innovative. It has three game modes, of which only one is available for free, which is the multi-player duel mode. In this mode, you face your opponent, in a one-on-one drone battle. The other two modes are available in the paid version, which are co-op defense of a line from invading ships and the last mode consists of deflecting a striker into the opponent&#8217;s goal (yeah just like Air hockey). Unlike most other offline co-op games, this app, utilizes both the screens of the involved parties, such that there is a larger display available for the game. By aligning both the smartphones the game may begin. It utilizes either a Wi-Fi connection(Devices on the same network) or even Bluetooth.</span></p>
+<p><img class="aligncenter wp-image-1167 size-large" src="http://www.yourtechshow.com/wp-content/uploads/2017/08/Screenshot_20170812-000733-1024x576.png" alt="" width="688" height="387" /></p>
+<p style="text-align: center;"><span style="font-family: ABeeZee;">Tutorial for Duel mode </span></p>
+<p>&nbsp;</p>
+<p><span style="font-family: ABeeZee;">      So everyone, that was it for this post..Hope you have found this helpful <img src="https://s.w.org/images/core/emoji/11/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<p><span style="font-family: ABeeZee;"> See you soon!</span></p>
+<p style="text-align: right;"><em><strong><span style="font-family: ABeeZee;">TTSMG</span></strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>https://akshaybhopani.github.io/WordPress/2017/08/11/app-reviews/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Razer To Make Gaming Phones</title>
+		<link>https://akshaybhopani.github.io/WordPress/2017/07/22/razer-to-make-gaming-phones/</link>
+		<comments>https://akshaybhopani.github.io/WordPress/2017/07/22/razer-to-make-gaming-phones/#respond</comments>
+		<pubDate>Sat, 22 Jul 2017 10:05:19 +0000</pubDate>
+		<dc:creator><![CDATA[Aaditya Aurobindo]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[iOs]]></category>
+		<category><![CDATA[Razer]]></category>
+		<category><![CDATA[Smartphone]]></category>
+
+		<guid isPermaLink="false">http://www.yourtechshow.com/?p=1125</guid>
+		<description><![CDATA[Razer is interested in building a smartphone for gamers, according to a report from Bloomberg. The company is planning an IPO in Hong Kong later this year that could value its business at $5 billion. It will reportedly use some of the funds to build its smartphone. The news isn’t that surprising, given that Razer &#8230; <p class="link-more"><a href="https://akshaybhopani.github.io/WordPress/2017/07/22/razer-to-make-gaming-phones/" class="more-link">Continue reading<span class="screen-reader-text"> "Razer To Make Gaming Phones"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>Razer is interested in building a smartphone for gamers, according to a report from Bloomberg. The company is planning an IPO in Hong Kong later this year that could value its business at $5 billion. It will reportedly use some of the funds to build its smartphone.</p>
+<p id="SmJzFI">The news isn’t that surprising, given that Razer acquired the smartphone company Nextbit earlier this year. Razer said Nextbit would operate as an independent company at the time of the acquisition, but hasn’t said much publicly about it since.</p>
+<p id="xPioH2">There are a lot of questions left to be answered, including whether the gaming-centric smartphone will come out under the Nextbit or Razer brand, and whether the company can even sell enough of them to make it worthwhile. Razer isn’t planning to IPO until around October, so we likely won’t see this device until 2018 at the earliest.</p>
+<p>What do you think would be the phones cost and do you think it&#8217;s a good move from the gaming giants? Discuss in the comments section below .</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://akshaybhopani.github.io/WordPress/2017/07/22/razer-to-make-gaming-phones/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sega To Release All Their Games For Free On Android and iOs</title>
+		<link>https://akshaybhopani.github.io/WordPress/2017/06/23/sega-to-release-all-their-games-for-free-on-android-and-ios/</link>
+		<comments>https://akshaybhopani.github.io/WordPress/2017/06/23/sega-to-release-all-their-games-for-free-on-android-and-ios/#respond</comments>
+		<pubDate>Fri, 23 Jun 2017 16:22:45 +0000</pubDate>
+		<dc:creator><![CDATA[Aaditya Aurobindo]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[Hedgehog]]></category>
+		<category><![CDATA[iOs]]></category>
+		<category><![CDATA[Sega]]></category>
+		<category><![CDATA[Sonic]]></category>
+		<category><![CDATA[Sonic the Hedgehog]]></category>
+
+		<guid isPermaLink="false">http://www.yourtechshow.com/?p=1002</guid>
+		<description><![CDATA[Good news to all SEGA fans and retro gamers. Every SEGA game ever made is coming to iOS and Android, and it’s free-to-play. SEGA has just announced SEGA Forever, which will offer games released for every console era—Master System, Genesis/Mega Drive, Dreamcast and more—via smartphone or tablet. SEGA Forever will launch this week on iOS &#8230; <p class="link-more"><a href="https://akshaybhopani.github.io/WordPress/2017/06/23/sega-to-release-all-their-games-for-free-on-android-and-ios/" class="more-link">Continue reading<span class="screen-reader-text"> "Sega To Release All Their Games For Free On Android and iOs"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>Good news to all SEGA fans and retro gamers. Every SEGA game ever made is coming to iOS and Android, and it’s free-to-play. SEGA has just announced SEGA Forever, which will offer games released for every console era—Master System, Genesis/Mega Drive, Dreamcast and more—via smartphone or tablet.</p>
+<p>SEGA Forever will launch this week on iOS and Android for free. Some of the titles that are expected to be released are Mega Drive games <em>Altered Beast</em>,<em>Comix Zone</em>, <em>Kid Chameleon</em>, <em>Phantasy Star II</em>, and <em>Sonic The Hedgehog</em>. According to<em>Metro UK</em>, these games will be playable offline and has modern features such as cloud saves, online leaderboards, and Bluetooth controller support.</p>
+<p>SEGA plans to release a <a class="external" href="http://metro.co.uk/2017/06/21/sega-forever-lets-you-play-retro-mega-drive-games-for-free-on-mobile-6724510/" target="_blank" rel="noopener noreferrer">new game every two weeks</a>, until eventually incorporating titles from every SEGA console from the SG-1000 through to the Dreamcast. Behind the SEGA Forever concept is Chief Marketing Officer Mike Evans who shares that he also has plans of including previous unreleased games in the West such as Dreamcast game <em>Segagaga</em>, and<em>Girl’s Garden</em>, the first game from Yuji Naka.</p>
+<p>“We’ve never before done something that really crosses all of the different gaming eras, and isn’t prejudice against someone because they grew up in the ’80s versus the ’90s. And so what we’re trying to do is look at how we can take content that spans two decades and make it all available in the same place,” Evans tells<em>Metro UK</em>.</p>
+<figure id="attachment_4312146" class="wp-caption alignnone"><img class="size-medium wp-image-4312146" src="http://cdn.inquisitr.com/wp-content/uploads/2017/06/sega-sonic-the-hedgehog-670x389.jpg" sizes="(max-width: 670px) 100vw, 670px" srcset="http://cdn.inquisitr.com/wp-content/uploads/2017/06/sega-sonic-the-hedgehog-670x389.jpg 670w, http://cdn.inquisitr.com/wp-content/uploads/2017/06/sega-sonic-the-hedgehog-260x150.jpg 260w, http://cdn.inquisitr.com/wp-content/uploads/2017/06/sega-sonic-the-hedgehog-120x70.jpg 120w, http://cdn.inquisitr.com/wp-content/uploads/2017/06/sega-sonic-the-hedgehog.jpg 720w" alt="SEGA Forever will feature Sonic the Hedgehog on iOS and Android for free." width="670" height="389" /><figcaption class="wp-caption-text">[Image by David Greedy/Getty Images]</figcaption></figure>
+<p>The only setback is that the SEGA games were designed to work on a proper controller and not on a touchscreen. To this, Evans says that they are trying to get the experience as good as possible, but for those who don’t want to play on a touchscreen, players can buy a cheap Bluetooth controller, which can even be set up on the TV.</p>
+<p>Unfortunately, there will be no added difficulty levels or aids, other than lowering the difficulty within the game itself. This is because the SEGA team prefers to keep the games faithful to the original.</p>
+<p>“We haven’t gone in and changed the original ROM itself, we’ve kept them as faithful emulations. Which was important in making this project work commercially,” Evans explains.</p>
+<p>Since the games are free, the way that SEGA will profit is through short adverts that would play before the start of a game. According to <em>Metro UK</em>, there are plans in the future for a subscription service, where there would be no need to wait for the ads to play out. For now, there is an option to pay £1.99 for each game to get rid of the ads.</p>
+<p>Meanwhile, <em><a class="external" href="http://www.eurogamer.net/articles/2017-06-21-segas-back-catalogue-is-headed-to-mobile-with-sega-forever" target="_blank" rel="noopener noreferrer">Eurogamer</a></em> was able to try some of the games on both Android and iPhone. According to the popular gaming blog site, although the ads didn’t seem at all intrusive, the appeal for use of a physical controller is definitely there. SEGA is also reported to be working on native apps for the Apple TV and Android TV.</p>
+<p><iframe src="https://www.youtube.com/embed/NPnCBe0cLos?feature=oembed" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://akshaybhopani.github.io/WordPress/2017/06/23/sega-to-release-all-their-games-for-free-on-android-and-ios/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
