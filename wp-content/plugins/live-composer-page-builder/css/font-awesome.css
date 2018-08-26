@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'DSLCFontAwesome';
-  src: url('font/fontawesome-webfont.eot?v=4.4');
-  src: url('font/fontawesome-webfont.eot?#iefix&v=4.4') format('embedded-opentype'), url('font/fontawesome-webfont.woff?v=4.4') format('woff'), url('font/fontawesome-webfont.ttf?v=4.4') format('truetype'), url('font/fontawesome-webfont.svg#fontawesomeregular?v=4.4') format('svg');
+  src: url('https://akshaybhopani.github.io/WordPress/wp-content/plugins/live-composer-page-builder/css/font/fontawesome-webfont.eot?v=4.4');
+  src: url('https://akshaybhopani.github.io/WordPress/wp-content/plugins/live-composer-page-builder/css/font/fontawesome-webfont.eot#iefix&v=4.4') format('embedded-opentype'), url('https://akshaybhopani.github.io/WordPress/wp-content/plugins/live-composer-page-builder/css/font/fontawesome-webfont.woff?v=4.4') format('woff'), url('https://akshaybhopani.github.io/WordPress/wp-content/plugins/live-composer-page-builder/css/font/fontawesome-webfont.ttf?v=4.4') format('truetype'), url('https://akshaybhopani.github.io/WordPress/wp-content/plugins/live-composer-page-builder/css/font/fontawesome-webfont.svg#fontawesomeregular?v=4.4') format('svg');
   font-weight: normal;
   font-style: normal;
 }
